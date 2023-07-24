@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # 讀入圖片
-img = cv2.imread('face.jpg')
+img = cv2.imread('8.jpg')
 
 # 取得圖片長寬與通道數
 rows, cols, ch = img.shape
@@ -74,7 +74,7 @@ cv2.imshow('FFT 2D high', np.abs(high) / max_amp * 255)
 cv2.imshow('INVERSE FFT 2D high', inversed_img_h.astype('uint8'))  
 
 # 顯示原圖
-cv2.imshow('original', img)     
+cv2.imshow('original', img)
 # 顯示美化結果      
 cv2.imshow('beautified', output)  
 # 儲存結果圖片
@@ -84,6 +84,6 @@ cv2.imwrite('FT 2D low.jpg', np.abs(low) / max_amp * 255* 255 )
 cv2.imwrite('INVERSE FFT 2D low.jpg', (inversed_img_l.astype('uint8')))  
 cv2.imwrite('FFT 2D high.jpg', np.abs(high) / max_amp * 255* 255 )  
 cv2.imwrite('INVERSE FFT 2D high.jpg', inversed_img_h.astype('uint8'))  
-           
+
 cv2.waitKey()
 cv2.destroyAllWindows()
