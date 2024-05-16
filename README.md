@@ -1,4 +1,5 @@
-上方程式碼完整文字報告在此  :point_right: [資訊科技學習履歷](https://hackmd.io/@pinzhensu/SkejGDAdh)
+> [!NOTE]
+> 上方程式碼完整文字報告在此  :point_right: [資訊科技學習履歷](https://hackmd.io/@pinzhensu/SkejGDAdh)
 
 # 蘇品甄 (SU, PIN-CHEN)
 
