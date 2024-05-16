@@ -86,3 +86,7 @@
 - 專案主要內容：使用特效的公司理念介紹、課程介紹影片等，與藝美獎名人宣傳片頭動畫、拍片用智慧型機器人Cosmos 5.0 廣告動畫
 
 - 使用工具：Unity3D、Adobe After Effect、Adobe Premiere、Adobe Photoshop、Adobe Illustrator
+
+### 平面設計作品集 :point_right: [前往查看](https://photos.app.goo.gl/DVMdfTH6XSgJM5dp7)
+
+- 使用工具：Adobe Photoshop、Adobe Illustrator
