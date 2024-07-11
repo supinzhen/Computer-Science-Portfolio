@@ -12,10 +12,10 @@
 
 找一張月球的圖片，圖片中大部分地區幾乎是黑暗的。使用直方圖均衡化(Histogram Equalization)與直方圖均衡化(Histogram Specification)增強圖片，並進行比較與討論。
 
-> Full Report [HERE](https://github.com/supinzhen/Computer-Science-Portfolio/tree/b9d6d47dd6c098617e223a513384f5240907dac0/Image%20Processing/Spatial%20Domain%20Image%20Processing)
+> Full Report and Code [HERE](https://github.com/supinzhen/Computer-Science-Portfolio/tree/b9d6d47dd6c098617e223a513384f5240907dac0/Image%20Processing/Spatial%20Domain%20Image%20Processing)
 
 ### Beautify Your Pictures
 
 使用頻率定義域(Frequency Domain)的方式，將人像圖片美化。
 
-> Full Report [HERE](https://github.com/supinzhen/Computer-Science-Portfolio/tree/b9d6d47dd6c098617e223a513384f5240907dac0/Image%20Processing/Beautify%20Your%20Pictures)
+> Full Report and Code [HERE](https://github.com/supinzhen/Computer-Science-Portfolio/tree/b9d6d47dd6c098617e223a513384f5240907dac0/Image%20Processing/Beautify%20Your%20Pictures)
