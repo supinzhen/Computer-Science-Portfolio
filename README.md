@@ -73,7 +73,7 @@
 
 
 ### 資訊科技學習筆記  :point_right: [前往查看](https://hackmd.io/@pinzhensu/SkejGDAdh)
-##### Tages : `Python` `Unity3D` `OpenCV` `Pytorch` `IntelRealSense D435i Depth Camera`
+##### Tages : `Python` `Unity3D` `OpenCV` `Pytorch` 
 - 專案主要內容：紀錄電腦視覺、虛擬實境、深度學習、影像處理等領域所做過的專案。
 
 
