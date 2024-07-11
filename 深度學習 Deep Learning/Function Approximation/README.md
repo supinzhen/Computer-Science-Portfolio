@@ -6,7 +6,7 @@
 
 我這次將使用Python實作此項目，並搭配Pytorch與d2l實作模型。
 
-> Full Code on [GitHub](https://github.com/supinzhen/Computer-Science-Portfolio/tree/f3bf9fd0ce9b5a02c1165d97a601f9bbce0a217e/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%20Deep%20Learning/Function%20Approximation)
+> Full Code on [GitHub](https://github.com/supinzhen/Computer-Science-Portfolio/tree/816d069499006d774482a8644b1e1fadc34415ca/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%20Deep%20Learning/Function%20Approximation)
 
 ## 訓練資料概述
 在開始訓練模型之前，對資料進行分析有助於往後對模型的設計。
