@@ -67,8 +67,9 @@
 
 ## 專案與作品集
 
-### 碩士論文 非綠幕環境影像去背之虛擬影視製作系統 
+### 碩士論文 非綠幕環境影像去背之虛擬影視製作系統 :point_right: [Demo影片](https://youtu.be/oG4jsXeynFw)
 ##### Tages : `Python` `Unity3D` `OpenCV` `Pytorch` `IntelRealSense D435i Depth Camera`
+**目前狀態：正在 MDPI 審查中**
 - 專案主要內容：開發一套無需綠幕的虛擬製作系統，利用Unity遊戲引擎、深度學習影像去背、深度攝影機影像去背，以及HTC VIVE Tracker進行攝影機追蹤，讓影像創作者在拍攝時可即時預覽虛實合成後的畫面，無需搭建綠幕即可輕鬆進行虛實合成的影像拍攝。
 
 
@@ -76,6 +77,18 @@
 ##### Tages : `Python` `Unity3D` `OpenCV` `Pytorch` 
 - 專案主要內容：紀錄電腦視覺、虛擬實境、深度學習、影像處理等領域所做過的專案。
 
+### 大學畢業製作 料理實境節目【少廚原產地】 :point_right: [前往查看](https://www.youtube.com/playlist?list=PLXNlI0RL4EATT7uEkRsL6ETwup_l7u6xt)
+- 專案主要內容： 料理實境節目前期規劃、拍攝與後製
+- 擔任攝影指導，也負責製作CG轉場動畫、主視覺設計拍攝
+- 成效：此作品榮獲第四十七屆藝美獎【電視類最佳綜藝節目】
+- 使用工具：Adobe After Effect、Adobe Premiere、Adobe Photoshop、Adobe Illustrator
+
+### 影片製作 :point_right: [前往查看](https://www.youtube.com/playlist?list=PLMD-3xLUOcdw8rWB_sVg_33baB0R0gthp)
+- 專案主要內容：使用特效的公司理念介紹、課程介紹影片等，與藝美獎名人宣傳片頭動畫、拍片用智慧型機器人Cosmos 5.0 廣告動畫
+- 使用工具：Unity3D、Adobe After Effect、Adobe Premiere、Adobe Photoshop、Adobe Illustrator
+
+### 平面設計作品集 :point_right: [前往查看](https://photos.app.goo.gl/DVMdfTH6XSgJM5dp7)
+- 使用工具：Adobe Photoshop、Adobe Illustrator
 
 
 
