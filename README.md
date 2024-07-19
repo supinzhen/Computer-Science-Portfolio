@@ -67,7 +67,9 @@
 
 ## 專案與作品集
 
-### 碩士論文 非綠幕環境影像去背之虛擬影視製作系統 :point_right: [Demo影片](https://youtu.be/oG4jsXeynFw)
+### 碩士論文 非綠幕環境影像去背之虛擬影視製作系統 
+:point_right: [Demo影片](https://youtu.be/oG4jsXeynFw)  :point_right: **Github**
+
 `Python` `Unity3D` `OpenCV` `Pytorch` `IntelRealSense D435i Depth Camera`
 
 **目前狀態：正在 MDPI 審查中**
@@ -84,9 +86,13 @@
 - 成效：此作品榮獲第四十七屆藝美獎【電視類最佳綜藝節目】
 - 使用工具：Adobe After Effect、Adobe Premiere、Adobe Photoshop、Adobe Illustrator
 
-### 影片製作 :point_right: [前往查看](https://www.youtube.com/playlist?list=PLMD-3xLUOcdw8rWB_sVg_33baB0R0gthp)
+### 影片製作 
 `Adobe After Effect` `Adobe Premiere` `Adobe Photoshop` `Adobe Illustrator`
-- 專案主要內容：使用特效的公司理念介紹、課程介紹影片等，與藝美獎名人宣傳片頭動畫、拍片用智慧型機器人Cosmos 5.0 廣告動畫
+
+:point_right: [**短片作品** ](https://youtube.com/playlist?list=PLMD-3xLUOcdw_hhHwGiPHyIYV72QVqqBx&si=OzbuakD-VX_KTfGa) 
+:point_right: [**產品介紹影片作品**](https://youtube.com/playlist?list=PLMD-3xLUOcdzwiowNk0sIzb5T9fxFs59S&si=47ze7KPXupO-Num1)
+
+- 專案主要內容：活動宣傳短片、空拍攝影、產品介紹等相關影片製作
 
 ### 平面設計作品集 :point_right: [前往查看](https://photos.app.goo.gl/DVMdfTH6XSgJM5dp7)
 `Adobe Photoshop` `Adobe Illustrator`
