@@ -72,7 +72,7 @@
 
 `Python` `Unity3D` `OpenCV` `Pytorch` `IntelRealSense D435i Depth Camera`
 
-**目前狀態：正在 MDPI 審查中**
+**延伸期刊發表：[https://doi.org/10.3390/electronics13163182](https://doi.org/10.3390/electronics13163182)**
 - 專案主要內容：開發一套無需綠幕的虛擬製作系統，利用Unity遊戲引擎、深度學習影像去背、深度攝影機影像去背，以及HTC VIVE Tracker進行攝影機追蹤，讓影像創作者在拍攝時可即時預覽虛實合成後的畫面，無需搭建綠幕即可輕鬆進行虛實合成的影像拍攝。
 
 
